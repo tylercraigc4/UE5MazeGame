@@ -11,7 +11,6 @@ I used the early access version of Unreal Engine 5 to make this game. I mainly u
 
 # Useful Websites
 
-{Make a list of websites that you found helpful in this project}
 * [Unreal Engine Tutorials](https://learn.unrealengine.com/home/dashboard)
 
 
